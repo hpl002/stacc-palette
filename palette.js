@@ -1,0 +1,52 @@
+const stacc_palette = {
+  pastel: {
+    lighter: {
+      Sea: "#ECF2FF",
+      Ferrari: "#FBECEB",
+      Orange: "#FFF8EA",
+      Sun: "#FFFEEA",
+      Grass: "#F7FCF8",
+      Prince: "#FAF7FC",
+    },
+    lightest: {
+      Sea: "#F9FBFF",
+      Ferrari: "#FDF5F5",
+      Orange: " #FFFCF5",
+      Sun: "#FFFEF5",
+      Grass: "#F0FAF1",
+      Prince: "#F5F0FA",
+    },
+  },
+  light: {
+    Sea_Light: "#C7D8FF",
+    Ferrari_Light: "#EEB3AE",
+    Orange_Light: "#FFE3AC",
+    Sun_Light: "#FFFAAC",
+    Grass_Light: "#C2EBC7",
+    Prince_Light: "#D6C2EB",
+  },
+  primary: {
+    Sea: "#467EFF",
+    Ferrari: "#AD362B",
+    Orange: "#FFBA30",
+    Sun: "#FFF230",
+    Grass: "#66CD73",
+    Prince: "#9A66CD",
+  },
+  dark: {
+    Sea: "#3158B3",
+    Ferrari: "#872A22",
+    Orange: "#E6A72B",
+    Sun: "#E2D956",
+    Grass: "#4C9956",
+    Prince: " #734D9A",
+  },
+  basic: {
+    Coal: "#2B2B2B",
+    Grey_1: "#6C6C6C",
+    Grey_2: "#B8B8B8",
+    Grey_3: "#B8B8B8",
+    Grey_4: "#B8B8B8",
+    Snow: "#FFFFFF",
+  },
+};
